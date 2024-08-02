@@ -19,9 +19,8 @@ nav {
 
 .logo img {
     height: 50px;
-    width: 150px; /* Adjust the width as needed */
+    width: 150px;
 }
-
 nav ul {
     list-style: none;
     display: flex;
